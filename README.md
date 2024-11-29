@@ -2,7 +2,7 @@
 # Newton's Apple Game
 Newton's Apple is an exciting 2D game built with Python and the Pygame library. The goal is to catch falling apples while avoiding dangerous thorns. As you progress, the game becomes faster and more challenging, and you have to manage your lives carefully. Can you keep up with the falling apples and avoid the thorns?
 
-Features
+# Features
 Catch Falling Apples: Increase your score by catching apples that fall from the top of the screen.
 Avoid Thorns: Dodge the falling thorns. If you hit one, you lose a life.
 Score System: Keep track of your score as you catch apples and gain bonuses.
