@@ -1,20 +1,23 @@
-# Pygame_Projects
 # Newton's Apple Game
+
 **Newton's Apple** is an exciting 2D game built with Python and the Pygame library. The goal is to catch falling apples while avoiding dangerous thorns. As you progress, the game becomes faster and more challenging, and you have to manage your lives carefully. Can you keep up with the falling apples and avoid the thorns?
 
 ## Features
-Catch Falling Apples: Increase your score by catching apples that fall from the top of the screen.
-Avoid Thorns: Dodge the falling thorns. If you hit one, you lose a life.
-Score System: Keep track of your score as you catch apples and gain bonuses.
-Multiple Lives: Start with 3 lives, and lose one each time you hit a thorn.
-Game Over: When you run out of lives, the game ends.
-Background Music & Sound Effects: Enjoy dynamic sound effects for catching apples, losing lives, and game over.
-Visuals: Enjoy a colorful background, player, and various falling items like apples and thorns.
+- **Catch Falling Apples:** Increase your score by catching apples that fall from the top of the screen.
+- **Avoid Thorns:** Dodge the falling thorns. If you hit one, you lose a life.
+- **Score System:** Keep track of your score as you catch apples and gain bonuses.
+- **Multiple Lives:** Start with 3 lives, and lose one each time you hit a thorn.
+- **Game Over:** When you run out of lives, the game ends.
+- **Background Music & Sound Effects:** Enjoy dynamic sound effects for catching apples, losing lives, and game over.
+- **Visuals:** Enjoy a colorful background, player, and various falling items like apples and thorns.
 
-# Installation
-1. Clone this repository to your local machine.
 
- [git clone] (https://github.com/AMAYKJHA/Newtons-Apple.git)
+## Installation
+
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/AMAYKJHA/Pygame_Projects.git
+
 Navigate to the project folder:
 
 cd Newtons-Apple
@@ -67,4 +70,6 @@ Submit a pull request.
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 
