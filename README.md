@@ -42,31 +42,31 @@ Run the game:
 python main.py
 
 # Controls
-Left Arrow: Move the player left.
-Right Arrow: Move the player right.
-Space Bar: Start the game and trigger the falling of apples and thorns.
+Left Arrow: Move the player left.<br>
+Right Arrow: Move the player right.<br>
+Space Bar: Start the game and trigger the falling of apples and thorns.<br>
 
 # Game Logic
-Apple Falling: Apples fall from the top at a constant rate. The player needs to catch them to score points.
-Thorns Falling: Thorns also fall from the top. If the player collides with a thorn, they lose a life.
-Score System: The score increases each time an apple is caught. Every 9 apples increase the fall speed of both apples and thorns.
-Life System: The player starts with 3 lives. Losing all lives ends the game.
-Game Over: When the player runs out of lives, the game will display a "Game Over" message.
+Apple Falling: Apples fall from the top at a constant rate. The player needs to catch them to score points.<br>
+Thorns Falling: Thorns also fall from the top. If the player collides with a thorn, they lose a life.<br>
+Score System: The score increases each time an apple is caught. Every 9 apples increase the fall speed of both apples and thorns.<br>
+Life System: The player starts with 3 lives. Losing all lives ends the game.<br>
+Game Over: When the player runs out of lives, the game will display a "Game Over" message.<br>
 # How to Play
-Start the game by pressing the Space Bar. Apples and thorns will begin falling from the top.
-Use the Left Arrow and Right Arrow keys to move the player and try to catch the falling apples.
-If you catch an apple, your score increases. Be careful not to hit the thorns!
-Every time you hit a thorn, you lose one life. If you lose all your lives, the game will end.
-Press Space Bar again to restart the game after it’s over.
+Start the game by pressing the Space Bar. Apples and thorns will begin falling from the top.<br>
+Use the Left Arrow and Right Arrow keys to move the player and try to catch the falling apples.<br>
+If you catch an apple, your score increases. Be careful not to hit the thorns!<br>
+Every time you hit a thorn, you lose one life. If you lose all your lives, the game will end.<br>
+Press Space Bar again to restart the game after it’s over.<br>
 # Contributing
-Feel free to fork the repository and submit pull requests. If you find bugs or have ideas for improvements, please open an issue, and we'll discuss it!
+Feel free to fork the repository and submit pull requests. If you find bugs or have ideas for improvements, please open an issue, and we'll discuss it!<br>
 
-To Contribute:
-Fork this repository
-Create a new branch for your feature or bug fix.
-Commit your changes.
-Push to the branch.
-Submit a pull request.
+To Contribute:<br>
+Fork this repository<br>
+Create a new branch for your feature or bug fix.<br>
+Commit your changes.<br>
+Push to the branch.<br>
+Submit a pull request.<br>
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
